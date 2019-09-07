@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeraiciixa.hugihlynsson.com/sitemap.xml
